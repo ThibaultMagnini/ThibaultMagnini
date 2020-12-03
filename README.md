@@ -1,4 +1,9 @@
 ### Hi there 👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThibaultMagnini&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Status"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaultMagnini&show_icons=true&layout=compact" alt="Most Used Languages">
+</p>
+
 
 <!--
 **ThibaultMagnini/ThibaultMagnini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
